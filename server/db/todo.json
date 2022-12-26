@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Polymer",
+      "description": "Learn about Polymer",
+      "created_at": "2022-12-26T18:22:24.712Z",
+      "is_complete": "Incomplete"
+    },
+    {
+      "id": 2,
+      "title": "Watch Course",
+      "description": "Watch Pluralsight course on Docker",
+      "created_at": "Tue Mar 02 07:01:55 +0000 2022",
+      "is_complete": "Done"
+    },
+    {
+      "id": 3,
+      "title": "Task Presentation",
+      "description": "Complete presentation prep for Aurelia presentation",
+      "created_at": "Wed Mar 05 10:01:55 +0000 2022",
+      "is_complete": "Incomplete"
+    },
+    {
+      "id": 4,
+      "title": "Learn Puppet",
+      "description": "Instrument creation of development environment with Puppet",
+      "created_at": "Fri June 30 13:00:00 +0000 2022",
+      "is_complete": "Incomplete"
+    },
+    {
+      "title": "Learn ES6",
+      "description": "Transition code base to ES6",
+      "created_at": "2022-12-26T20:15:15.604Z",
+      "is_complete": "Done",
+      "id": 5
+    },
+    {
+      "title": "Belajar Vue",
+      "description": "Belajar vue pinia dan vue router di malam hari",
+      "created_at": "2022-12-26T20:17:17.501Z",
+      "is_complete": "Done",
+      "id": 6
+    }
+  ]
+}
